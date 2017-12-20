@@ -60,10 +60,10 @@
                                 <h4><i class="fa fa-user"></i>&nbsp;&nbsp; Datos generales</h4>
                                 
                                 <label>Nombre del ingeniero(a)</label>
-                                <input type="text" class="input-block-level" required>
+                                <input type="text" class="input-block-level" >
                                 
                                 <label>Bimestre a evaluar</label>
-                                <select class="input-block-level" required>
+                                <select class="input-block-level" >
                                     <option disabled="disabled" selected="selected" value="">---Elija una opción---</option>
                                     <option title="Enero-Febrero" value="1">1er Bimestre </option>
                                     <option title="Marzo-Abril" value="2">2° Bimestre</option>
@@ -153,7 +153,7 @@
                                 <h4><i class="fa fa-certificate"></i>&nbsp;&nbsp;Certificaciones</h4>
                                 
                                 <label>Email</label>
-                                <input type="text" class="input-block-level" required>
+                                <input type="text" class="input-block-level" >
                                 <label>Bimestre</label>
                                 <select class="input-block-level">
                                     <option disabled="disabled" selected="selected">---Select---</option>
@@ -259,7 +259,7 @@
                                 <label>Email</label>
                                 <input type="text" class="input-block-level">
                                 <label>Security Question</label>
-                                <select class="input-block-level" required  >
+                                <select class="input-block-level"   >
                                     <option disabled="disabled" selected="selected" value="">---Select---</option>
                                     <option value="1">Which Is Your First Mobile</option>
                                     <option value="2">What Is Your Pet Name</option>
