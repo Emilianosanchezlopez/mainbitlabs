@@ -18,7 +18,7 @@
     <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     
-    <script src="js/tabs-addon.js"></script>
+    <script src="https://raw.githubusercontent.com/Emilianosanchezlopez/mainbitlabs/master/js/tabs-addon.js"></script>
     
     <!--[if IE 7]>
         <link href="styles/font-awesome-ie7.min.css" rel="stylesheet" />
