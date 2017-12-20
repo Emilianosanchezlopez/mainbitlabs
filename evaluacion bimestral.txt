@@ -12,12 +12,12 @@
 
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link href="styles/bootstrap.min.css" rel="stylesheet">
-    <link href="styles/bootstrap-responsive.min.css" rel="stylesheet">
-    <link href="css/preview.min.css" rel="stylesheet">
+    
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://raw.githubusercontent.com/Emilianosanchezlopez/mainbitlabs/master/css/preview.min.css" rel="stylesheet">
     <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <script src="js/bootstrap.min.js"></script>
+    
     <script src="js/tabs-addon.js"></script>
     
     <!--[if IE 7]>
