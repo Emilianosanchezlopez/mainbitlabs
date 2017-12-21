@@ -61,7 +61,7 @@
                                 <h4><i class="fa fa-user"></i>&nbsp;&nbsp; Datos generales</h4>
                                 
                                 <label>Nombre del ingeniero(a)</label>
-                                <input type="text" class="input-block-level" >
+                                <input type="text" class="input-block-level" required>
                                 
                                 <label>Bimestre a evaluar</label>
                                 <select class="input-block-level" >
