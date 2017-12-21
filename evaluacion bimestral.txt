@@ -38,7 +38,7 @@
 
 
 
-    <div class="container" style="background-color:#acacac;">
+    <div class="container" style="background-color:#acacac; height:600px;">
 
 
     <!--inicia formulario-->
